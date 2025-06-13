@@ -1,4 +1,4 @@
-local Library = loadstring(gameHttpGet(httpspastebin.comraw4iG9SKxs))()
+local Library = loadstring(gameHttpGet(https://pastebin.comraw4iG9SKxs))()
 local Window = LibraryWindow()
 
 -- Game Configuration
